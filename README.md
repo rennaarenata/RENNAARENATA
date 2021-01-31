@@ -16,7 +16,7 @@
 
 ### What I want to do:
 - 📑 Learn at least 3 Programming Languages
-- ✌ Make a Great and Useful Project
+- ✌ Learn something about malware analysis and webapp testing
 
 
 My site is [this](https://rennaarenata.github.io)
@@ -25,3 +25,4 @@ My site is [this](https://rennaarenata.github.io)
 
 
 ![Renna's github stats](https://github-readme-stats.vercel.app/api?username=RENNAARENATA&show_icons=true&count_private=true&theme=react)
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RENNAARENATA&hide_border=true"/></a>
