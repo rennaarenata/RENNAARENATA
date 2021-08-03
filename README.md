@@ -1,28 +1,28 @@
 ## Hi i'm Renna!🦌
+![](https://i.ibb.co/yQpkmnb/reindeer-4213845-640.jpg)
+### You can reach me using:
+- 📥Telegram: [@rennaarenata](t.me/rennaarenata)
+- 🦅Twitter: [Rennarenataa](https://twitter.com/rennaarenataa)
+- 🟦Discord (I don't really use it btw): Rennaarenata#9166
 
-### About Me:
-- 💻 **C++** & **Ruby** <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/cpp/cpp_48x48.png" alt="C++" width="40" height="40" /></code>&nbsp;<code><img src="https://camo.githubusercontent.com/e6e2a1af3cd8afe9483f1e5ca1795ee6de67abaa298834c6ec75d0e384f88fc9/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f4070726f6772616d6d696e672d6c616e6775616765732d6c6f676f732f7275627940302e302e302f727562795f323536783235362e706e67" alt="Ruby" width="40" heigh="40" /></code>
-- 🌱 I’m currently learning **GoLang**
-- 📫 How to reach me: @rennaarenata on telegram
-- 🔭 I’m currently working on Vulnerability Dr1ll3r tool! Check it out in my repositories
-- ⚙  Interested in cybersecurity:  
-  > 👾Malware Analysis;
-  
-  > 🔺Web Application Security Testing & Bug Bounty;
+### I'm interested in:
+- 📃`WebApps Security Testing & Exploitation` (Reading [The Holy Bible](https://portswigger.net/web-security/web-application-hackers-handbook))
+- 👾`Malware Analysis and Reverse Engineering` (Reading [Anything](https://www.anything.org/)(Litterally))
 
-    <p align="left">
-    
-    </p>
+### I've used these programming language(S):
+- ✔[C++](https://en.wikipedia.org/wiki/C%2B%2B) (My First Lang, I'm not that good with C++ btw)
+- 🐍[Python](https://en.wikipedia.org/wiki/Python_(programming_language)) (I just use it for web interactions, some programs and API stuff)
+- 💎[Ruby](https://en.wikipedia.org/wiki/Ruby_(programming_language)) (I've never created something actually useful in ruby, trying to use it more btw)
 
-### What I want to do:
-- 📑 Learn at least 3 Programming Languages
-- ✌ Learn something about malware analysis and webapp testing
+### Trying to:
+- Improve My Skills;
+- Learn WebDev Stuff;
+- Learn from my mistakes;
+- Master (at least) WebApp Explotation & Reverse Engineering
 
+**My site: [rennaarenata.github.io](https://rennaarenata.github.io)**
 
-My site is [this](https://rennaarenata.github.io)
+**Last "serious" project: [rennaarenata.github.io/WeatherThings.com](https://rennaarenata.github.io/WeatherThings.html)**
 
-## Bye!!👋
-
-
+### Some Stats:
 ![Renna's github stats](https://github-readme-stats.vercel.app/api?username=RENNAARENATA&show_icons=true&count_private=true&theme=react)
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RENNAARENATA&hide_border=true"/></a>
