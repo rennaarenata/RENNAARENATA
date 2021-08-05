@@ -23,7 +23,8 @@
 **My site: [rennaarenata.github.io](https://rennaarenata.github.io)**
 
 **Last "serious" project: [rennaarenata.github.io/WeatherThings.com](https://rennaarenata.github.io/WeatherThings.html)**
-**VulnDriller is not finished yet btw >.>**
+
+*_VulnDriller is not finished yet btw >.>_*
 
 ### Some Stats:
 ![Renna's github stats](https://github-readme-stats.vercel.app/api?username=RENNAARENATA&show_icons=true&count_private=true&theme=react)
