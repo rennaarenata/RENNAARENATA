@@ -28,3 +28,5 @@
 
 ### Some Stats:
 ![Renna's github stats](https://github-readme-stats.vercel.app/api?username=RENNAARENATA&show_icons=true&count_private=true&theme=react)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NullByte75&layout=compact)](https://github.com/ExploitHaxgithub-readme-stats)
