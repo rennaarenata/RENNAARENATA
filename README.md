@@ -18,7 +18,7 @@
 - Improve My Skills;
 - Learn WebDev Stuff;
 - Learn from my mistakes;
-- Master (at least) WebApp Explotation & Reverse Engineering
+- Master (at least) WebApp Exploitation & Reverse Engineering
 
 **My site: [rennaarenata.github.io](https://rennaarenata.github.io)**
 
