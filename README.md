@@ -16,9 +16,8 @@
 
 ### Trying to:
 - Improve My Skills;
-- Learn WebDev Stuff;
-- Learn from my mistakes;
-- Master (at least) WebApp Exploitation & Reverse Engineering
+- Learn Math & Physics Stuff (if you have resources about this topic, please text me on telegram)
+- Master WebApp Exploitation & Reverse Engineering
 
 **My site: [rennaarenata.github.io](https://rennaarenata.github.io)**
 
