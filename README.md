@@ -21,7 +21,7 @@
 
 **My site: [rennaarenata.github.io](https://rennaarenata.github.io)**
 
-**Last "serious" project: [rennaarenata.github.io/WeatherThings.com](https://rennaarenata.github.io/WeatherThings.html)**
+**Last "serious" project: [rennaarenata.github.io/WeatherStuff.html](https://rennaarenata.github.io/WeatherStuff.html)**
 
 *_VulnDriller is not finished yet btw >.>_*
 
