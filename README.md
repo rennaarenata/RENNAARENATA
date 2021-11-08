@@ -1,7 +1,7 @@
 ## Hi i'm Renna!🦌
 ![](https://i.ibb.co/yQpkmnb/reindeer-4213845-640.jpg)
 ### You can reach me using:
-- 📥Telegram: [@rennaarenata](t.me/rennaarenata)
+- 📥Telegram: [@rennaarenata](https://t.me/rennaarenata)
 - 🦅Twitter: [Rennarenataa](https://twitter.com/rennaarenataa)
 - 🟦Discord (I don't really use it btw): Rennaarenata#9166
 
