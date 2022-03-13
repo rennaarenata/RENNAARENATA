@@ -16,14 +16,14 @@
 
 ### Trying to:
 - Improve My Skills;
-- Learn Math & Physics Stuff (if you have resources about this topic, please text me on telegram)
+- Learn Math & Physics Stuff (if you have resources about these topics, please text me on telegram)
 - Master WebApp Exploitation & Reverse Engineering
 
 **My site: [rennaarenata.github.io](https://rennaarenata.github.io)**
 
 **Last "serious" project: [rennaarenata.github.io/WeatherStuff.html](https://rennaarenata.github.io/WeatherStuff.html)**
 
-*_VulnDriller is not finished yet btw >.>_*
+*_VulnDriller is not finished yet btw >.>_* (and probably i'll never finish it-)
 
 ### Some Stats:
 ![Renna's github stats](https://github-readme-stats.vercel.app/api?username=RENNAARENATA&show_icons=true&count_private=true&theme=react)
