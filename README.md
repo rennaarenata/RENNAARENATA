@@ -9,7 +9,7 @@
 - 📃`WebApps Security Testing & Exploitation` (Reading [The Holy Bible](https://portswigger.net/web-security/web-application-hackers-handbook))
 - 👾`Malware Analysis and Reverse Engineering` (Reading [Anything](https://www.anything.org/)(Litterally))
 
-### I've used these programming language(S):
+### I've used these programming languages:
 - ✔[C++](https://en.wikipedia.org/wiki/C%2B%2B) (My First Lang, I'm not that good with C++ btw)
 - 🐍[Python](https://en.wikipedia.org/wiki/Python_(programming_language)) (I just use it for web interactions, some programs and API stuff)
 - 💎[Ruby](https://en.wikipedia.org/wiki/Ruby_(programming_language)) (I've never created something actually useful in ruby, trying to use it more btw)
@@ -17,7 +17,7 @@
 ### Trying to:
 - Improve My Skills;
 - Learn Math & Physics Stuff (if you have resources about these topics, please text me on telegram)
-- Master WebApp Exploitation & Reverse Engineering
+- Master WebApp Exploitation, Reverse Engineering & Binary Exploitation.
 
 **My site: [rennaarenata.github.io](https://rennaarenata.github.io)**
 
