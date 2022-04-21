@@ -17,7 +17,7 @@
 ### Trying to:
 - Improve My Skills;
 - Learn Math & Physics Stuff (if you have resources about these topics, please text me on telegram)
-- Master WebApp Exploitation, Reverse Engineering & Binary Exploitation.
+- Master WebApp Exploitation & Binary Exploitation.
 
 **My site: [rennaarenata.github.io](https://rennaarenata.github.io)**
 
