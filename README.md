@@ -7,21 +7,14 @@
 
 ### I'm interested in:
 - 📃`WebApps Security Testing & Exploitation` (Reading [The Holy Bible](https://portswigger.net/web-security/web-application-hackers-handbook))
-- 👾`Malware Analysis and Reverse Engineering` (Reading [Anything](https://www.anything.org/)(Litterally))
+- 👾`Binary Exploitation and Reverse Engineering` 
+- 💸`Bug Bounty Programs` (Every now and then)
 
 ### I've used these programming languages:
 - ✔[C++](https://en.wikipedia.org/wiki/C%2B%2B) (My First Lang, I'm not that good with C++ btw)
-- 🐍[Python](https://en.wikipedia.org/wiki/Python_(programming_language)) (I just use it for web interactions, some programs and API stuff)
-- 💎[Ruby](https://en.wikipedia.org/wiki/Ruby_(programming_language)) (I've never created something actually useful in ruby, trying to use it more btw)
+- 🐍[Python](https://en.wikipedia.org/wiki/Python_(programming_language)) (I just use it for web interactions, some programs and stuff with APIs)
 
-### Trying to:
-- Improve My Skills;
-- Learn Math & Physics Stuff (if you have resources about these topics, please text me on telegram)
-- Master WebApp Exploitation & Binary Exploitation.
-
-**My site: [rennaarenata.github.io](https://rennaarenata.github.io)**
-
-*_VulnDriller is not finished yet btw >.>_* (and probably i'll never finish it-)
+**My website: [rennaarenata.github.io](https://rennaarenata.github.io)**
 
 ### Some Stats:
 ![Renna's github stats](https://github-readme-stats.vercel.app/api?username=RENNAARENATA&show_icons=true&count_private=true&theme=react)
