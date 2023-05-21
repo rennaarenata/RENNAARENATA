@@ -8,7 +8,7 @@
 ### I'm interested in:
 - 📃`WebApps Security Testing & Exploitation` (Reading [The Holy Bible](https://portswigger.net/web-security/web-application-hackers-handbook))
 - 👾`Binary Exploitation and Reverse Engineering` 
-- 💸`Bug Bounty Programs` (Every now and then)
+- 💸`Bug Bounty Programs & CTFs` (Every now and then)
 
 ### I've used these programming languages:
 - ✔[C++](https://en.wikipedia.org/wiki/C%2B%2B) (My First Lang, I'm not that good with C++ btw)
